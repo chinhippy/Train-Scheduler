@@ -1,0 +1,22 @@
+form{
+    margin: 5px;
+}
+.btn-primary{
+ margin: 3px;   
+}
+.card{
+    margin: 10px;
+}
+.form-group{
+    margin: 3px;
+}
+.jumbotron {
+    background-image: url("../images/congruent_outline.png");
+    color: white;
+    text-align: center;
+}
+
+.card-header{
+background-color: lightgray;    
+}
+
